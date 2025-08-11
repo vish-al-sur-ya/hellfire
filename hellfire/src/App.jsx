@@ -18,7 +18,7 @@ class App extends Component {
         <section>
           {/* Each card displays an image and a label/title below it */}
           <div className='card'>
-            <img src='/1.jpeg' alt='' />
+            <img src='/1.jpeg/' alt='' />
             <label>Project One</label>
           </div>
 
