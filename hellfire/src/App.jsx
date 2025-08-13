@@ -18,32 +18,32 @@ class App extends Component {
         <section>
           {/* Each card displays an image and a label/title below it */}
           <div className='card'>
-            <img src='/1.jpeg/' alt='' />
+            <img src='1.jpeg' alt='' />
             <label>Project One</label>
           </div>
 
           <div className='card'>
-            <img src='/2.jpeg' alt='' />
+            <img src='2.jpeg' alt='' />
             <label>Project Two</label>
           </div>
 
           <div className='card'>
-            <img src='/3.jpeg' alt='' />
+            <img src='3.jpeg' alt='' />
             <label>Project Three</label>
           </div>
 
           <div className='card'>
-            <img src='/4.jpeg' alt='' />
+            <img src='4.jpeg' alt='' />
             <label>Project Four</label>
           </div>
 
           <div className='card'>
-            <img src='/5.jpeg' alt='' />
+            <img src='5.jpeg' alt='' />
             <label>Project Five</label>
           </div>
 
           <div className='card'>
-            <img src='/6.jpeg' alt='' />
+            <img src='6.jpeg' alt='' />
             <label>Project Six</label>
           </div>
         </section>
